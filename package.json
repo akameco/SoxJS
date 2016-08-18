@@ -27,7 +27,8 @@
   },
   "xo": {
     "envs": [
-      "browser"
+      "browser",
+      "jquery"
     ]
   }
 }
